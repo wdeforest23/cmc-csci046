@@ -60,7 +60,7 @@
 
     1. Ensure that you have updated your local git repo with the latest upstream.
 
-    1. `cd` into the `topic_01_functional_programing` folder and then open the file `p_macro` in vim.
+    1. `cd` into the `topic_01_functions` folder and then open the file `p_macro` in vim.
        You should see contents that look like
        ```
        ^y$iprint("^[A=", ^[pa)^[^
@@ -98,4 +98,4 @@
        print("python_variable_name=", python_variable_name)
        ```
 
-    1. (optional) For a detailed reference on writing your own vim macros (it's actually quite easy), see <https://vim.fandom.com/wiki/Macros>
+    1. (optional) For a detailed reference on writing your own vim macros, see <https://vim.fandom.com/wiki/Macros>.
